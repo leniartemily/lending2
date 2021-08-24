@@ -1,7 +1,7 @@
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 * [General info](#general-info)
-* [Predictions] (#predictions)
+* [Predictions](#predictions)
 * [Technologies](#technologies)
 * [Results](#results)
 * [References](#references)
